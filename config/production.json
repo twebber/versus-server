@@ -1,16 +1,16 @@
 {
-  "HOST": "http://www.entrant.cc"
+  "HOST": "http://www.versusgames.co"
 
 , "HTTP": {
     "CORS": [ 
-      "http://entrant.cc"
-    , "http://www.entrant.cc"
-    , "http://cafe-entry-production.herokuapp.com" 
+      "http://game.versusgames.co"
+    , "http://www.versusgames.co"
+    , "http://versus-game-production.herokuapp.com" 
     ]
   }
 
 , "S3": {
-    "BUCKET": "production.endurancecafe.com"
+    "BUCKET": "production.versusgames.co"
   }
 
 , "LOGGING": {
@@ -18,7 +18,7 @@
   }
 
 , "PROVIDER": {
-    "EMAIL": "mandrill"
+    "EMAIL": "null"
   , "IMAGES": "s3"
   }
 }
