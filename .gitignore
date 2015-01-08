@@ -1,0 +1,8 @@
+node_modules/
+tmp/
+logs/
+
+*.log
+doc.md
+.DS_Store
+.vagrant/

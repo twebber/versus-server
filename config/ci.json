@@ -1,0 +1,19 @@
+{
+  "REDIS": {
+    "URL": "redis://[DYNAMIC_IP_ADDRESS]:6379"
+  }
+
+, "MONGODB": {
+    "URL": "mongodb://[DYNAMIC_IP_ADDRESS]:27017"
+  }
+
+, "S3": {
+    "BUCKET": "ci.endurancecafe.com"
+  }
+
+, "PROVIDER": {
+    "EMAIL": "null"
+  , "SMS": "null"
+  , "IMAGES": "null"
+  }
+}

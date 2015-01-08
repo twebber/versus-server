@@ -1,0 +1,26 @@
+{
+
+  "HTTP": {
+    "CORS": [ "http://localhost:4200" ]
+  }
+
+, "MONGODB": {
+    "HOST": "localhost"
+  , "PORT": 27017
+  , "DATABASE": "cafe_test"
+  }
+
+, "LOGGING": {
+    "LEVEL": "none"
+  }
+
+, "PROVIDER": {
+    "EMAIL": "null"
+  , "SMS": "null"
+  , "IMAGES": "null"
+  }
+
+, "S3": {
+    "BUCKET": "test.endurancecafe.com"
+  }
+}

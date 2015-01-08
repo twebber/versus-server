@@ -1,0 +1,25 @@
+{
+  "HOST": ""
+
+, "HTTP": {
+    "CORS": [ ]
+  }
+
+, "FACEBOOK": {
+    "ID": ""
+  , "SECRET": ""
+  }
+
+, "TWITTER": {
+    "ID": ""
+  , "SECRET": ""
+  }
+
+, "S3": {
+    "BUCKET": "testing.endurancecafe.com"
+  }
+
+, "LOGGING": {
+    "TYPE" : "CONSOLE"
+  }
+}

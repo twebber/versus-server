@@ -1,0 +1,122 @@
+{ "game":
+  { 
+    "name" : "Week One"
+  , "questions" : [   
+    { "text" : "Expect Steven Gerrard’s long goodbye to continue apace, but how much Stevie G will we be subjected to this weekend?"
+    , "summary" : "Gerrard’s Goodbye"
+    , "index" : 1
+    , "score" : 1
+    , "choices" : [   
+      { "text" : "None, Rodgers leaves him out of the squad entirely. Possibly annoyed the focus isn’t on him."
+      , "summary" : "Not in the squad"
+      ,  "index" : 1 
+      }
+    , { "text" : "Shots of him looking forlorn and emotional on the bench, as he begins as a sub."
+      , "summary" : "Starts as a sub"
+      ,  "index" : 2 
+      }
+    , { "text" : "Starts the game, but fails to score, no matter how much every shot is greeted with a commentary squeal."
+      , "summary" : "Starts but no goals"
+      ,  "index" : 3 
+      }
+    , { "text" : "Starts, scores, heralded as the heartbeat of the club. Stevie Gs abound."
+      , "summary" : "Starts and scores"
+      ,  "index" : 4 
+      }
+      ]
+    }
+  , { "text" : "January heralds the start of 6 pointer territory. Burnley and QPR offer up the closest we’ve got this week. What will happen?"
+    , "summary" : "6 Pointers"
+    , "index" : 2
+    , "score" : 1
+    , "choices" : [   
+      { "text" : "The cliche comes to the fore, Burnley beat QPR overtaking them in the league, but its still only worth 3 points."
+      , "summary" : "Burnley win"
+      ,  "index" : 1 
+      }
+    , { "text" : "QPR beat Burnley increasing the gap between the two, but it’s still only worth 3 points."
+      , "summary" : "QPR win"
+      ,  "index" : 2 
+      }
+    , { "text" : "A 6 pointer worth just 1 point, how can it be? It’s a draw that’s how."
+      , "summary" : "Draw"
+      ,  "index" : 3 
+      }
+    , { "text" : "Either side commits a major disciplinary offence that results in a points deduction from the FA Premier League, making it a minus pointer. Still not a 6 pointer though."
+      , "summary" : "Disciplinary offence"
+      ,  "index" : 4 
+      }
+      ]
+    }
+  , { "text" : "Everton have lost four on the bounce in the league, struggling to find form, they’ll struggle against City then, huh?"
+    , "summary" : "Everton’s fight"
+    , "index" : 3
+    , "score" : 1
+    , "choices" : [   
+      { "text" : "No chance. Martinez is the erudite genius we thought! Everton beat City."
+      , "summary" : "They win"
+      ,  "index" : 1 
+      }
+    , { "text" : "They’ll put up a good fight and get a draw. Martinez has his team scrapping for their lives."
+      , "summary" : "They draw"
+      ,  "index" : 2 
+      }
+    , { "text" : "City will win by a goal. Everton maybe deserved more."
+      , "summary" : "They lose by a goal"
+      ,  "index" : 3 
+      }
+    , { "text" : "City win by 2 or more goals, is Martinez a deadman walking?"
+      , "summary" : "They lose by more than one"
+      ,  "index" : 4 
+      }
+      ]
+    }
+  , { "text" : "The Tony Pulis Effect. He did it with Crystal Palace last season - saving them from relegation. Can he take it to West Brom?"
+    , "summary" : "The Pulis Effect"
+    , "index" : 4
+    , "score" : 1
+    , "choices" : [   
+      { "text" : "Salvation is a-comin. West Brom beat Hull. Yeah, they might be expected to at home based on league position, but ignore that. It’s Pulis what done it."
+      , "summary" : "WBA win"
+      ,  "index" : 1 
+      }
+    , { "text" : "It’s a score draw. It’ll take him time to get his methods across, but they remain a threat."
+      , "summary" : "Score draw"
+      ,  "index" : 2 
+      }
+    , { "text" : "0-0. Oooo… it’s classic Pulis he’s starting at the back. Goals are overrated."
+      , "summary" : "0-0 - classic Pulis"
+      ,  "index" : 3 
+      }
+    , { "text" : "Hull win. Pulis will still enjoy his drink with Steve Bruce. Classic British manager."
+      , "summary" : "Hull win, nice glass of red"
+      ,  "index" : 4 
+      }
+      ]
+    }
+  , { "text" : " Man. Utd were derided for their performance in beating Southampton last month, how will the return shape up?"
+    , "summary" : "Do United have any shame?"
+    , "index" : 5
+    , "score" : 1
+    , "choices" : [   
+      { "text" : "United repeat their smash and grab, less possession, less shots, but more goals than Soton. The evil empire continues its work."
+      , "summary" : "Win, without dominating shots or goals."
+      ,  "index" : 1 
+      }
+    , { "text" : "Southampton get revenge, taking the win. Van Gaal remains unhappy with Koeman. Dutch grumpy face."
+      , "summary" : "Soton win"
+      ,  "index" : 2 
+      }
+    , { "text" : "Stalemate, neither side on top. The manager’s less than cordial relationship could easily become the focus."
+      , "summary" : "Draw. What are the managers up to?"
+      ,  "index" : 3 
+      }
+    , { "text" : "United win, but in more authoritative style, having either more possession or shots than 4th placed Soton."
+      , "summary" : "United win, dominating shots or possession."
+      ,  "index" : 4 
+      }
+      ]
+    }
+    ]
+  }
+}

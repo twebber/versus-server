@@ -1,0 +1,48 @@
+{
+  "FACEBOOK": {
+    "SCOPE": [ "email", "public_profile", "user_friends" ]
+  , "FIELDS": [ "id", "email", "name", "picture.width(300)", "gender", "link", "first_name", "last_name", "location" ]
+  }
+
+, "ENTITIES": [ "user", "group", "event" ]
+
+, "REDIS": {
+    "HOST": "localhost"
+  , "PORT": 6379
+  }
+  
+, "CACHE": {
+    "TTL": 120
+  }
+
+, "LOGGING": {
+    "LEVEL": "verbose"
+  }
+
+, "PROVIDER": {
+    "EMAIL": "null"
+  , "SMS": "null"
+  , "IMAGES": "null"
+  }
+
+, "S3": {
+    "REGION": "eu-west-1"
+  }
+
+, "MANDRILL": {
+    "ID": ""
+  , "SUBACCOUNT": "cafe"
+  }
+
+, "EMAIL": {
+    "FROM": "no-reply@endurancecafe.com"
+  , "NAME": "Endurance Cafe"
+  }
+
+, "TWILIO": {
+    "ID": ""
+  , "TOKEN": ""
+  , "NUMBER": ""
+  }
+
+}

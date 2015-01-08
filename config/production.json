@@ -1,0 +1,24 @@
+{
+  "HOST": "http://www.entrant.cc"
+
+, "HTTP": {
+    "CORS": [ 
+      "http://entrant.cc"
+    , "http://www.entrant.cc"
+    , "http://cafe-entry-production.herokuapp.com" 
+    ]
+  }
+
+, "S3": {
+    "BUCKET": "production.endurancecafe.com"
+  }
+
+, "LOGGING": {
+    "TYPE" : "CONSOLE"
+  }
+
+, "PROVIDER": {
+    "EMAIL": "mandrill"
+  , "IMAGES": "s3"
+  }
+}

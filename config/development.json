@@ -1,0 +1,32 @@
+{
+  "HOST": "http://localhost:3000"
+
+, "HTTP": {
+    "CORS": [ "http://localhost:4200" ]
+  }
+
+, "MONGODB": {
+    "HOST": "localhost"
+  , "PORT": 27017
+  , "DATABASE": "versus"
+  }
+
+, "REDIS": {
+    "HOST": "localhost"
+  , "PORT": "6379"
+  }
+
+, "ELASTICSEARCH": {
+    "URL": "localhost:9200"
+  }
+
+, "S3": {
+    "BUCKET": "development.versusgames.co"
+  }
+
+, "PROVIDER": {
+    "EMAIL": "null"
+  , "IMAGES": "s3"
+  }
+
+}
