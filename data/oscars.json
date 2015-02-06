@@ -31,97 +31,256 @@
       , "summary" : ""
       ,  "index" : 6 
       }
+    , { "text" : "The Grand Budapest Hotel"
+      , "summary" : ""
+      ,  "index" : 7 
+      }
+    , { "text" : "Whiplash"
+      , "summary" : ""
+      ,  "index" : 8
+      }
       ]
     }
-  , { "text" : ""
+  , { "text" : "Actor - in a Leading Role"
     , "summary" : ""
     , "index" : 2
     , "score" : 1
     , "choices" : [   
-      { "text" : ""
+      { "text" : "Steve Carell - Foxcatcher"
       , "summary" : ""
       ,  "index" : 1 
       }
-    , { "text" : ""
+    , { "text" : "Michael Keaton - Birdman"
       , "summary" : ""
       ,  "index" : 2 
       }
-    , { "text" : ""
+    , { "text" : "Bradley Cooper - American Sniper"
       , "summary" : ""
       ,  "index" : 3 
       }
-    , { "text" : ""
+    , { "text" : "Eddie Redmayne - The Theory of Everything"
       , "summary" : ""
       ,  "index" : 4 
       }
+    , { "text" : "Benedict Cumberbatch - The Imitation Game"
+      , "summary" : ""
+      ,  "index" : 5 
+      }
       ]
     }
-  , { "text" : ""
+  , { "text" : "Actreee - in a Leading Role"
     , "summary" : ""
     , "index" : 3
     , "score" : 1
     , "choices" : [   
-      { "text" : ""
+      { "text" : "Marion Cotillard - Two Days, One Night"
       , "summary" : ""
       ,  "index" : 1 
       }
-    , { "text" : ""
+    , { "text" : "Rosamund Pike - Gone Girl"
       , "summary" : ""
       ,  "index" : 2 
       }
-    , { "text" : ""
+    , { "text" : "Felicity Jones - The Theory of Everything"
       , "summary" : ""
       ,  "index" : 3 
       }
-    , { "text" : ""
+    , { "text" : "Reese Witherspoon - Wild"
       , "summary" : ""
       ,  "index" : 4 
       }
+    , { "text" : "Julianne Moore - Still Alice"
+      , "summary" : ""
+      ,  "index" : 5 
+      }
       ]
     }
-  , { "text" : ""
+  , { "text" : "Actor - in a Supporting Role"
     , "summary" : ""
     , "index" : 4
     , "score" : 1
     , "choices" : [   
-      { "text" : ""
+      { "text" : "Robert Duvall - The Judge"
       , "summary" : ""
       ,  "index" : 1 
       }
-    , { "text" : ""
+    , { "text" : "Mark Ruffalo - Foxcatcher"
       , "summary" : ""
       ,  "index" : 2 
       }
-    , { "text" : ""
+    , { "text" : "Ethan Hawke - Boyhood"
       , "summary" : ""
       ,  "index" : 3 
       }
-    , { "text" : ""
+    , { "text" : "J.K. Simmons - Whiplash"
       , "summary" : ""
       ,  "index" : 4 
       }
+    , { "text" : "Edward Norton - Birdman"
+      , "summary" : ""
+      ,  "index" : 5 
+      }
       ]
     }
-  , { "text" : ""
+  , { "text" : "Actress - in a Supporting Role"
     , "summary" : ""
     , "index" : 5
     , "score" : 1
     , "choices" : [   
-      { "text" : ""
+      { "text" : "Patricia Arquette - Boyhood"
       , "summary" : ""
       ,  "index" : 1 
       }
-    , { "text" : ""
+    , { "text" : "Emma Stone - Birdman"
       , "summary" : ""
       ,  "index" : 2 
       }
-    , { "text" : ""
+    , { "text" : "Laura Dern - Wild"
       , "summary" : ""
       ,  "index" : 3 
       }
-    , { "text" : ""
+    , { "text" : "Meryl Streep - Into the Woods"
       , "summary" : ""
       ,  "index" : 4 
+      }
+    , { "text" : "Keira Knightley - The Imitation Game"
+      , "summary" : ""
+      ,  "index" : 5 
+      }
+      ]
+    }
+  , { "text" : "Animated Feature Film"
+    , "summary" : ""
+    , "index" : 6
+    , "score" : 1
+    , "choices" : [   
+      { "text" : "Big Hero 6"
+      , "summary" : ""
+      ,  "index" : 1 
+      }
+    , { "text" : "Song of the Sea"
+      , "summary" : ""
+      ,  "index" : 2 
+      }
+    , { "text" : "The Boxtrolls"
+      , "summary" : ""
+      ,  "index" : 3 
+      }
+    , { "text" : "The Tale of the Princess Kaguya"
+      , "summary" : ""
+      ,  "index" : 4 
+      }
+    , { "text" : "How to Train Your Dragon 2"
+      , "summary" : ""
+      ,  "index" : 5 
+      }
+      ]
+    }
+  , { "text" : "Directing"
+    , "summary" : ""
+    , "index" : 7
+    , "score" : 1
+    , "choices" : [   
+      { "text" : "Birdman - Alejandro G. Inarritu"
+      , "summary" : ""
+      ,  "index" : 1 
+      }
+    , { "text" : "Boyhood - Richard Linklater"
+      , "summary" : ""
+      ,  "index" : 2 
+      }
+    , { "text" : "Foxcatcher - Bennett Miller"
+      , "summary" : ""
+      ,  "index" : 3 
+      }
+    , { "text" : "The Grand Budapest Hotle - Wes Anderson"
+      , "summary" : ""
+      ,  "index" : 4 
+      }
+    , { "text" : "The Imitation Game - Morten Tyldum"
+      , "summary" : ""
+      ,  "index" : 5 
+      }
+      ]
+    }
+  , { "text" : "Writing - Adapted Screenplay"
+    , "summary" : ""
+    , "index" : 8
+    , "score" : 1
+    , "choices" : [   
+      { "text" : "American Sniper - Jason Hall"
+      , "summary" : ""
+      ,  "index" : 1 
+      }
+    , { "text" : "The Imitation Game - Graham Moore"
+      , "summary" : ""
+      ,  "index" : 2 
+      }
+    , { "text" : "Inherent Vice - Paul Thomas Anderson"
+      , "summary" : ""
+      ,  "index" : 3 
+      }
+    , { "text" : "The Theory of Everything - Anthony McCarten"
+      , "summary" : ""
+      ,  "index" : 4 
+      }
+    , { "text" : "Whiplash - Damien Chazelle"
+      , "summary" : ""
+      ,  "index" : 5 
+      }
+      ]
+    }
+  , { "text" : "Writing - Original Screenplay"
+    , "summary" : ""
+    , "index" : 9
+    , "score" : 1
+    , "choices" : [   
+      { "text" : "Birdman - A.G. Inarritu, N. Giacobone, A. Dinelaris Jr & A. Bo"
+      , "summary" : ""
+      ,  "index" : 1 
+      }
+    , { "text" : "Boyhood - Richard Linklater"
+      , "summary" : ""
+      ,  "index" : 2 
+      }
+    , { "text" : "Foxcatcher - E. Max Frye & Dan Futterman"
+      , "summary" : ""
+      ,  "index" : 3 
+      }
+    , { "text" : "The Grand Budapest Hotel - Wes Anderson & Hugo Guinness"
+      , "summary" : ""
+      ,  "index" : 4 
+      }
+    , { "text" : "Nightcrawler - Dan Gilroy"
+      , "summary" : ""
+      ,  "index" : 5 
+      }
+      ]
+    }
+ , { "text" : "Foreign Language Film"
+    , "summary" : ""
+    , "index" : 10
+    , "score" : 1
+    , "choices" : [   
+      { "text" : "Ida - Poland"
+      , "summary" : ""
+      ,  "index" : 1 
+      }
+    , { "text" : "Leviathan - Russia"
+      , "summary" : ""
+      ,  "index" : 2 
+      }
+    , { "text" : "Tangerines - Estonia"
+      , "summary" : ""
+      ,  "index" : 3 
+      }
+    , { "text" : "Timbuktu - Mauritania"
+      , "summary" : ""
+      ,  "index" : 4 
+      }
+    , { "text" : "Wild Tales- Argentina"
+      , "summary" : ""
+      ,  "index" : 5 
       }
       ]
     }
