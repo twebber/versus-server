@@ -1,6 +1,16 @@
 { "game":
   { 
     "name" : "The Oscars"
+  , "rewards": [
+    { "text" : "A round of beers"
+    , "summary" : ""
+    ,  "index" : 1 
+    }
+  , { "text" : "Cinema tickets"
+    , "summary" : ""
+    ,  "index" : 1 
+    }
+  ]
   , "questions" : [   
     { "text" : "Best Picture"
     , "summary" : ""
