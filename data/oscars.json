@@ -8,7 +8,10 @@
     }
   , { "text" : "Cinema tickets"
     , "summary" : ""
-    ,  "index" : 1 
+    ,  "index" : 2
+    }
+  , { "text" : false
+    ,  "index" : 3
     }
   ]
   , "questions" : [   
@@ -57,50 +60,50 @@
     , "score" : 1
     , "choices" : [   
       { "text" : "Steve Carell - Foxcatcher"
-      , "summary" : ""
+      , "summary" : "Steve Carell"
       ,  "index" : 1 
       }
     , { "text" : "Michael Keaton - Birdman"
-      , "summary" : ""
+      , "summary" : "Michael Keaton"
       ,  "index" : 2 
       }
     , { "text" : "Bradley Cooper - American Sniper"
-      , "summary" : ""
+      , "summary" : "Bradley Cooper"
       ,  "index" : 3 
       }
     , { "text" : "Eddie Redmayne - The Theory of Everything"
-      , "summary" : ""
+      , "summary" : "Eddie Redmayne"
       ,  "index" : 4 
       }
     , { "text" : "Benedict Cumberbatch - The Imitation Game"
-      , "summary" : ""
+      , "summary" : "Benedict Cumberbatch"
       ,  "index" : 5 
       }
       ]
     }
-  , { "text" : "Actreee - in a Leading Role"
+  , { "text" : "Actress - in a Leading Role"
     , "summary" : ""
     , "index" : 3
     , "score" : 1
     , "choices" : [   
       { "text" : "Marion Cotillard - Two Days, One Night"
-      , "summary" : ""
+      , "summary" : "Marion Cotillard"
       ,  "index" : 1 
       }
     , { "text" : "Rosamund Pike - Gone Girl"
-      , "summary" : ""
+      , "summary" : "Rosamund Pike"
       ,  "index" : 2 
       }
     , { "text" : "Felicity Jones - The Theory of Everything"
-      , "summary" : ""
+      , "summary" : "Felicity Jones"
       ,  "index" : 3 
       }
     , { "text" : "Reese Witherspoon - Wild"
-      , "summary" : ""
+      , "summary" : "Reese Witherspoon"
       ,  "index" : 4 
       }
     , { "text" : "Julianne Moore - Still Alice"
-      , "summary" : ""
+      , "summary" : "Julianne Moore"
       ,  "index" : 5 
       }
       ]
@@ -111,23 +114,23 @@
     , "score" : 1
     , "choices" : [   
       { "text" : "Robert Duvall - The Judge"
-      , "summary" : ""
+      , "summary" : "Robert Duvall"
       ,  "index" : 1 
       }
     , { "text" : "Mark Ruffalo - Foxcatcher"
-      , "summary" : ""
+      , "summary" : "Mark Ruffalo"
       ,  "index" : 2 
       }
     , { "text" : "Ethan Hawke - Boyhood"
-      , "summary" : ""
+      , "summary" : "Ethan Hawke"
       ,  "index" : 3 
       }
     , { "text" : "J.K. Simmons - Whiplash"
-      , "summary" : ""
+      , "summary" : "J.K. Simmons"
       ,  "index" : 4 
       }
     , { "text" : "Edward Norton - Birdman"
-      , "summary" : ""
+      , "summary" : "Edward Norton"
       ,  "index" : 5 
       }
       ]
@@ -138,23 +141,23 @@
     , "score" : 1
     , "choices" : [   
       { "text" : "Patricia Arquette - Boyhood"
-      , "summary" : ""
+      , "summary" : "Patricia Arquette"
       ,  "index" : 1 
       }
     , { "text" : "Emma Stone - Birdman"
-      , "summary" : ""
+      , "summary" : "Emma Stone"
       ,  "index" : 2 
       }
     , { "text" : "Laura Dern - Wild"
-      , "summary" : ""
+      , "summary" : "Laura Dern"
       ,  "index" : 3 
       }
     , { "text" : "Meryl Streep - Into the Woods"
-      , "summary" : ""
+      , "summary" : "Meryl Streep"
       ,  "index" : 4 
       }
     , { "text" : "Keira Knightley - The Imitation Game"
-      , "summary" : ""
+      , "summary" : "Keira Knightley"
       ,  "index" : 5 
       }
       ]
@@ -192,23 +195,23 @@
     , "score" : 1
     , "choices" : [   
       { "text" : "Birdman - Alejandro G. Inarritu"
-      , "summary" : ""
+      , "summary" : "Birdman"
       ,  "index" : 1 
       }
     , { "text" : "Boyhood - Richard Linklater"
-      , "summary" : ""
+      , "summary" : "Boyhood"
       ,  "index" : 2 
       }
     , { "text" : "Foxcatcher - Bennett Miller"
-      , "summary" : ""
+      , "summary" : "Foxcatcher"
       ,  "index" : 3 
       }
-    , { "text" : "The Grand Budapest Hotle - Wes Anderson"
-      , "summary" : ""
+    , { "text" : "The Grand Budapest Hotel - Wes Anderson"
+      , "summary" : "Grand Budapest Hotel"
       ,  "index" : 4 
       }
     , { "text" : "The Imitation Game - Morten Tyldum"
-      , "summary" : ""
+      , "summary" : "Imitation Game"
       ,  "index" : 5 
       }
       ]
@@ -219,23 +222,23 @@
     , "score" : 1
     , "choices" : [   
       { "text" : "American Sniper - Jason Hall"
-      , "summary" : ""
+      , "summary" : "American Sniper"
       ,  "index" : 1 
       }
     , { "text" : "The Imitation Game - Graham Moore"
-      , "summary" : ""
+      , "summary" : "Imitation Game"
       ,  "index" : 2 
       }
     , { "text" : "Inherent Vice - Paul Thomas Anderson"
-      , "summary" : ""
+      , "summary" : "Inherent Vice"
       ,  "index" : 3 
       }
     , { "text" : "The Theory of Everything - Anthony McCarten"
-      , "summary" : ""
+      , "summary" : "Theory of Everything"
       ,  "index" : 4 
       }
     , { "text" : "Whiplash - Damien Chazelle"
-      , "summary" : ""
+      , "summary" : "Whiplash"
       ,  "index" : 5 
       }
       ]
@@ -246,50 +249,50 @@
     , "score" : 1
     , "choices" : [   
       { "text" : "Birdman - A.G. Inarritu, N. Giacobone, A. Dinelaris Jr & A. Bo"
-      , "summary" : ""
+      , "summary" : "Birdman"
       ,  "index" : 1 
       }
     , { "text" : "Boyhood - Richard Linklater"
-      , "summary" : ""
+      , "summary" : "Boyhood"
       ,  "index" : 2 
       }
     , { "text" : "Foxcatcher - E. Max Frye & Dan Futterman"
-      , "summary" : ""
+      , "summary" : "Foxcatcher"
       ,  "index" : 3 
       }
     , { "text" : "The Grand Budapest Hotel - Wes Anderson & Hugo Guinness"
-      , "summary" : ""
+      , "summary" : "Grand Budapest Hotel"
       ,  "index" : 4 
       }
     , { "text" : "Nightcrawler - Dan Gilroy"
-      , "summary" : ""
+      , "summary" : "Nightcrawler"
       ,  "index" : 5 
       }
       ]
     }
- , { "text" : "Music - Original Song"
+  , { "text" : "Music - Original Song"
     , "summary" : ""
     , "index" : 10
     , "score" : 1
     , "choices" : [   
       { "text" : "Everything is Awesome, from the Lego Movie"
-      , "summary" : ""
+      , "summary" : "Everything is Awesome"
       ,  "index" : 1 
       }
     , { "text" : "Glory, from Selma"
-      , "summary" : ""
+      , "summary" : "Glory"
       ,  "index" : 2 
       }
     , { "text" : "Grateful, from Beyond the Lights"
-      , "summary" : ""
+      , "summary" : "Grateful"
       ,  "index" : 3 
       }
     , { "text" : "I'm Not Gonna Miss You, from Glen Campbell... I'll Be Me"
-      , "summary" : ""
+      , "summary" : "I'm Not Gonna Miss You"
       ,  "index" : 4 
       }
     , { "text" : "Lost Stars, from Begin Again"
-      , "summary" : ""
+      , "summary" : "Lost Stars"
       ,  "index" : 5 
       }
       ]
