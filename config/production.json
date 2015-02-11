@@ -19,6 +19,6 @@
 
 , "PROVIDER": {
     "EMAIL": "null"
-  , "IMAGES": "s3"
+  , "IMAGES": "null"
   }
 }
