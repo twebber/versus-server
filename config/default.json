@@ -31,12 +31,12 @@
 
 , "MANDRILL": {
     "ID": ""
-  , "SUBACCOUNT": "cafe"
+  , "SUBACCOUNT": "film-fight"
   }
 
 , "EMAIL": {
-    "FROM": "no-reply@endurancecafe.com"
-  , "NAME": "Endurance Cafe"
+    "FROM": "no-reply@versusgames.co"
+  , "NAME": "Versus Games"
   }
 
 , "TWILIO": {
