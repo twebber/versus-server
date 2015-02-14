@@ -2,7 +2,7 @@ p
   | Hi #{user.name},
 
 p
-  | Your friend {#invitedBy.name} has challenged you to a game of Film Fight - the Oscar prediction game where only one of you can take home the night’s true glory; the personal victory of beating your rival, or, as you previously knew them, friend. 
+  | Your friend #{invitedBy.name} has challenged you to a game of Film Fight - the Oscar prediction game where only one of you can take home the night’s true glory; the personal victory of beating your rival, or, as you previously knew them, friend. 
 
 p
   | Our friends at Odeon are also providing all head to head winners with a special reward, ooooooooooo……
@@ -11,7 +11,7 @@ p
   | It’s a head to head game, just you vs them, and they’ve already got their predictions in, so click the link below to go directly to the game they’ve started for you and enter your guesses (sorry, educated guesses).
 
 p
-  a(href=#{host}/invite/#{user.verificationCode}) Play Now
+  a(href='#{host}/invite/#{user.verificationCode}') Play Now
 
 p
   | Thanks
