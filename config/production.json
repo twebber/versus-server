@@ -1,5 +1,5 @@
 {
-  "HOST": "http://www.versusgames.co"
+  "HOST": "http://game.versusgames.co"
 
 , "HTTP": {
     "CORS": [ 
@@ -17,8 +17,12 @@
     "TYPE" : "CONSOLE"
   }
 
+, "MANDRILL": {
+    "SUBACCOUNT": "filmfight-production"
+  }
+
 , "PROVIDER": {
-    "EMAIL": "null"
+    "EMAIL": "mandrill"
   , "IMAGES": "null"
   }
 }

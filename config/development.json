@@ -1,5 +1,5 @@
 {
-  "HOST": "http://localhost:3000"
+  "HOST": "http://localhost:4200"
 
 , "HTTP": {
     "CORS": [ "http://localhost:4200" ]
@@ -25,7 +25,7 @@
   }
 
 , "PROVIDER": {
-    "EMAIL": "null"
+    "EMAIL": "mandrill"
   , "IMAGES": "null"
   }
 

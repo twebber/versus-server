@@ -30,8 +30,8 @@
   }
 
 , "MANDRILL": {
-    "ID": ""
-  , "SUBACCOUNT": "film-fight"
+    "ID": "aDqcDyd09GPIkbOGp6uFuQ"
+  , "SUBACCOUNT": "filmfight-development"
   }
 
 , "EMAIL": {
@@ -43,6 +43,12 @@
     "ID": ""
   , "TOKEN": ""
   , "NUMBER": ""
+  }
+
+, "GARDA": {
+    "EMAIL": {
+      "WELCOME": "Welcome to Film Fight"
+    }
   }
 
 }
