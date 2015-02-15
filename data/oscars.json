@@ -2,7 +2,7 @@
   { 
     "name" : "The Oscars"
   , "tiebreak": {
-      "question": "How many people will watch the Oscars?"
+      "question": "How long (in minutes) will the Oscar ceremony be?"
     }
   , "questions" : [   
     { "text" : "Best Picture"
