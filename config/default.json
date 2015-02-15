@@ -48,6 +48,7 @@
 , "GARDA": {
     "EMAIL": {
       "WELCOME": "Welcome to Film Fight"
+    , "PASSWORD": "Reset your Film Fight Password"
     }
   }
 
