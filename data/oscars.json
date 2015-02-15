@@ -1,19 +1,9 @@
 { "game":
   { 
     "name" : "The Oscars"
-  , "rewards": [
-    { "text" : "A round of beers"
-    , "summary" : ""
-    ,  "index" : 1 
+  , "tiebreak": {
+      "question": "How many people will watch the Oscars?"
     }
-  , { "text" : "Cinema tickets"
-    , "summary" : ""
-    ,  "index" : 2
-    }
-  , { "text" : false
-    ,  "index" : 3
-    }
-  ]
   , "questions" : [   
     { "text" : "Best Picture"
     , "summary" : ""
