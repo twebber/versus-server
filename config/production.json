@@ -5,7 +5,10 @@
     "CORS": [ 
       "http://game.versusgames.co"
     , "http://www.versusgames.co"
+    , "https://game.versusgames.co"
+    , "https://www.versusgames.co"
     , "http://versus-game-production.herokuapp.com" 
+    , "https://versus-game-production.herokuapp.com" 
     ]
   }
 
