@@ -57,16 +57,16 @@
       , "summary" : "Michael Keaton"
       ,  "index" : 2 
       }
-    , { "text" : "Bradley Cooper - American Sniper"
-      , "summary" : "Bradley Cooper"
+    , { "text" : "Benedict Cumberbatch - The Imitation Game"
+      , "summary" : "Benedict Cumberbatch"
       ,  "index" : 3 
       }
     , { "text" : "Eddie Redmayne - The Theory of Everything"
       , "summary" : "Eddie Redmayne"
       ,  "index" : 4 
       }
-    , { "text" : "Benedict Cumberbatch - The Imitation Game"
-      , "summary" : "Benedict Cumberbatch"
+    , { "text" : "Bradley Cooper - American Sniper"
+      , "summary" : "Bradley Cooper"
       ,  "index" : 5 
       }
       ]
@@ -80,12 +80,12 @@
       , "summary" : "Marion Cotillard"
       ,  "index" : 1 
       }
-    , { "text" : "Rosamund Pike - Gone Girl"
-      , "summary" : "Rosamund Pike"
-      ,  "index" : 2 
-      }
     , { "text" : "Felicity Jones - The Theory of Everything"
       , "summary" : "Felicity Jones"
+      ,  "index" : 2 
+      }
+    , { "text" : "Rosamund Pike - Gone Girl"
+      , "summary" : "Rosamund Pike"
       ,  "index" : 3 
       }
     , { "text" : "Reese Witherspoon - Wild"
@@ -192,16 +192,16 @@
       , "summary" : "Boyhood"
       ,  "index" : 2 
       }
-    , { "text" : "Foxcatcher - Bennett Miller"
-      , "summary" : "Foxcatcher"
+    , { "text" : "The Imitation Game - Morten Tyldum"
+      , "summary" : "Imitation Game"
       ,  "index" : 3 
       }
     , { "text" : "The Grand Budapest Hotel - Wes Anderson"
       , "summary" : "Grand Budapest Hotel"
       ,  "index" : 4 
       }
-    , { "text" : "The Imitation Game - Morten Tyldum"
-      , "summary" : "Imitation Game"
+    , { "text" : "Foxcatcher - Bennett Miller"
+      , "summary" : "Foxcatcher"
       ,  "index" : 5 
       }
       ]
@@ -215,8 +215,8 @@
       , "summary" : "American Sniper"
       ,  "index" : 1 
       }
-    , { "text" : "The Imitation Game - Graham Moore"
-      , "summary" : "Imitation Game"
+    , { "text" : "Whiplash - Damien Chazelle"
+      , "summary" : "Whiplash"
       ,  "index" : 2 
       }
     , { "text" : "Inherent Vice - Paul Thomas Anderson"
@@ -227,8 +227,8 @@
       , "summary" : "Theory of Everything"
       ,  "index" : 4 
       }
-    , { "text" : "Whiplash - Damien Chazelle"
-      , "summary" : "Whiplash"
+    , { "text" : "The Imitation Game - Graham Moore"
+      , "summary" : "Imitation Game"
       ,  "index" : 5 
       }
       ]
@@ -238,8 +238,8 @@
     , "index" : 9
     , "score" : 1
     , "choices" : [   
-      { "text" : "Birdman - A.G. Inarritu, N. Giacobone, A. Dinelaris Jr & A. Bo"
-      , "summary" : "Birdman"
+      { "text" : "Nightcrawler - Dan Gilroy"
+      , "summary" : "Nightcrawler"
       ,  "index" : 1 
       }
     , { "text" : "Boyhood - Richard Linklater"
@@ -254,8 +254,8 @@
       , "summary" : "Grand Budapest Hotel"
       ,  "index" : 4 
       }
-    , { "text" : "Nightcrawler - Dan Gilroy"
-      , "summary" : "Nightcrawler"
+    , { "text" : "Birdman - A.G. Inarritu, N. Giacobone, A. Dinelaris Jr & A. Bo"
+      , "summary" : "Birdman"
       ,  "index" : 5 
       }
       ]
@@ -265,8 +265,8 @@
     , "index" : 10
     , "score" : 1
     , "choices" : [   
-      { "text" : "Everything is Awesome, from the Lego Movie"
-      , "summary" : "Everything is Awesome"
+      { "text" : "Lost Stars, from Begin Again"
+      , "summary" : "Lost Stars"
       ,  "index" : 1 
       }
     , { "text" : "Glory, from Selma"
@@ -281,8 +281,8 @@
       , "summary" : "I'm Not Gonna Miss You"
       ,  "index" : 4 
       }
-    , { "text" : "Lost Stars, from Begin Again"
-      , "summary" : "Lost Stars"
+    , { "text" : "Everything is Awesome, from the Lego Movie"
+      , "summary" : "Everything is Awesome"
       ,  "index" : 5 
       }
       ]
